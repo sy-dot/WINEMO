@@ -1,4 +1,4 @@
-# WINEMO
+# WINEMO | Опционально
 
 * * *
 [Nighty Pixel](nighty-pixel)
