@@ -2,7 +2,9 @@
 *Не пиксельная, но ночная :)*
 * * *
 **Тема Windows** **=** Темная
+
 **Цвет =** `#41756b` | В загаловках и обводке
+
 **Тема Chrome =** [Material Theme Dark [blue-grey]](https://chrome.google.com/webstore/detail/material-theme-dark-blue/paoafodbgcjnmijjepmpgnlhnogaahme)
 * * *
 [Rainmeter](https://www.rainmeter.net/) & [JaxCore](https://jaxcore.app/)
@@ -33,5 +35,3 @@ Highlight - 120,120,120 | 120,120,120
 **Настройка YourMixer:** > General >
 * Animation steps = 30
 * Animation distance = 30
-
-
